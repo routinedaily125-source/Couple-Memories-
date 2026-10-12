@@ -1,6 +1,0 @@
-{
-  "name": "Love Journey",
-  "description": "A beautiful relationship tracker for couples with live love timer, milestone memories, countdowns, and anniversary celebration.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
